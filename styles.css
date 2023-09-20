@@ -67,7 +67,13 @@ nav {
   font-size: 18px;
   margin-inline-start: 15px;
   text-decoration: none;
+  color: #000;
 }
+
+.dark-mode .social-links a {
+  color: #fff;
+}
+
 
 
 .landing {
@@ -127,7 +133,7 @@ body.dark-mode {
   color: #333;
 }
 
-footer{
+footer {
   text-align: center;
   padding-block: 32px;
 }
